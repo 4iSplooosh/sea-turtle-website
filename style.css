@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(20, 20, 56);
+}
+
+header,
+footer {
+  background-color: rgb(20, 20, 56);
+  padding: 10px 0;
+  text-align: center;
+  color: green;
+}
+
+nav ul {
+  padding: 0;
+  color: rgb(188, 197, 230);
+}
+
+nav li {
+  color: rgb(188, 197, 230);
+  display: inline;
+  margin: 0 10px;
+}
+
+nav a {
+  text-decoration: none;
+  color: rgb(188, 197, 230);
+}
+
+main {
+  color: rgb(188, 197, 230);
+  padding: 10px;
+}
+
+h1,
+h2 {
+  color: green;
+}
