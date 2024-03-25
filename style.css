@@ -7,6 +7,14 @@ body {
 
 header,
 footer {
+  background-color: rgb(255, 0, 0);
+  background-image: url("background.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+header,
+footer {
   background-color: rgb(20, 20, 56);
   padding: 10px 0;
   text-align: center;
